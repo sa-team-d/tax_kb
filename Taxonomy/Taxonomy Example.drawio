@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.4">
   <diagram name="Pagina-1" id="2NDEH1Mb4MgoJHkJFnH6">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Smart App&#xa;KPI Taxonomy" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="2" value="Smart App&#xa;KPI Taxonomy" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="359" y="300" width="154" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="Time KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="11" value="Time KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="540" y="248" width="147" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="Resources KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="12" value="Resources KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="513" y="510" width="153" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="Energy KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="13" value="Energy KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
           <mxGeometry x="650" y="620" width="130" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="Health KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="14" value="Health KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="185" y="510" width="174" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="16" value="Output KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="16" value="Output KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="260" y="248" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="25" style="endArrow=none" parent="1" source="2" target="11" edge="1">
@@ -37,7 +37,7 @@
         <mxCell id="30" style="endArrow=none" parent="1" source="2" target="16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AFd-ICZsCgpPvtKR9CJo-30" value="Enviroment KPIs" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="AFd-ICZsCgpPvtKR9CJo-30" value="Enviroment KPIs" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="110" y="160" width="130" height="38" as="geometry" />
         </mxCell>
         <mxCell id="AFd-ICZsCgpPvtKR9CJo-31" style="endArrow=none;" parent="1" source="16" target="AFd-ICZsCgpPvtKR9CJo-30" edge="1">
@@ -45,7 +45,7 @@
             <mxPoint x="233" y="172" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AFd-ICZsCgpPvtKR9CJo-32" value="Efficiency KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="AFd-ICZsCgpPvtKR9CJo-32" value="Efficiency KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="641.5" y="170" width="147" height="38" as="geometry" />
         </mxCell>
         <mxCell id="AFd-ICZsCgpPvtKR9CJo-34" style="endArrow=none;" parent="1" source="11" target="AFd-ICZsCgpPvtKR9CJo-32" edge="1">
@@ -54,10 +54,10 @@
             <mxPoint x="610" y="138" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AFd-ICZsCgpPvtKR9CJo-35" value="Safety KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="AFd-ICZsCgpPvtKR9CJo-35" value="Safety KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="30" y="620" width="174" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="AFd-ICZsCgpPvtKR9CJo-36" value="Employee KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="AFd-ICZsCgpPvtKR9CJo-36" value="Employee KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="240" y="620" width="174" height="38" as="geometry" />
         </mxCell>
         <mxCell id="AFd-ICZsCgpPvtKR9CJo-37" style="endArrow=none" parent="1" source="14" target="AFd-ICZsCgpPvtKR9CJo-35" edge="1">
@@ -72,7 +72,7 @@
             <mxPoint x="407" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AFd-ICZsCgpPvtKR9CJo-39" value="Material &#xa;Consumption KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="AFd-ICZsCgpPvtKR9CJo-39" value="Material &#xa;Consumption KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
           <mxGeometry x="460" y="620" width="153" height="38" as="geometry" />
         </mxCell>
         <mxCell id="AFd-ICZsCgpPvtKR9CJo-40" style="endArrow=none" parent="1" source="12" target="AFd-ICZsCgpPvtKR9CJo-39" edge="1">
@@ -81,7 +81,7 @@
             <mxPoint x="491" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AFd-ICZsCgpPvtKR9CJo-41" value="Finance KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="AFd-ICZsCgpPvtKR9CJo-41" value="Finance KPI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="260" y="110" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="AFd-ICZsCgpPvtKR9CJo-42" style="endArrow=none" parent="1" source="16" target="AFd-ICZsCgpPvtKR9CJo-41" edge="1">
@@ -90,10 +90,10 @@
             <mxPoint x="267" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="405A2tpMuCEQXdGowLuR-32" value="Quality KPIs" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="405A2tpMuCEQXdGowLuR-32" value="Quality KPIs" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="74" y="248" width="130" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="405A2tpMuCEQXdGowLuR-33" style="endArrow=none;" edge="1" parent="1" source="16" target="405A2tpMuCEQXdGowLuR-32">
+        <mxCell id="405A2tpMuCEQXdGowLuR-33" style="endArrow=none;" parent="1" source="16" target="405A2tpMuCEQXdGowLuR-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="237" y="384" as="sourcePoint" />
             <mxPoint x="183" y="326" as="targetPoint" />
