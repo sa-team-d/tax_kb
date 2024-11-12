@@ -56,8 +56,7 @@ A specific calculated value of a KPI for a given scenario, capturing performance
 ---
 
 ### `kpi:PerformanceParameter`
-    
-A measurable parameter related to a specific aspect of building performance, such as temperature or energy usage, which is used in KPI calculations. Performance parameters serve as inputs to the KPI formulas, providing the necessary data for computation.
+A measurable parameter related to a specific KPIFormula. Performance parameters serve as inputs to the KPI formulas, providing the necessary data for computation.
 
    - **Attributes:**
      - `value` (float): The measured numerical value of the performance parameter.
