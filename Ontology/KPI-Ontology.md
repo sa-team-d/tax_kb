@@ -15,7 +15,7 @@ A KPI (Key Performance Indicator) is a measurable metric used to evaluate the ef
 
    - **Attributes:**
      - `id` (string): A unique identifier for the KPI.
-     - `name` (string): The name of the KPI, such as "Energy Consumption" or "CO₂ Emissions Reduction".
+     - `name` (string): The name of the KPI, such as "Energy Consumption".
      - `description` (string): A detailed description explaining what the KPI measures and why it is important in the context of building renovation.
 
    - **Relationships:**
@@ -90,6 +90,18 @@ A physical or virtual system on which KPIs are measured, such as HVAC units, lig
 
    - **Relationships:**  
      None specific to `Machine`.
+
+---
+
+### `Sites`
+
+A physical location or environment where machines are installed and KPIs are measured. Sites provide the geographical or operational context for assessing performance.
+
+- **Attributes:**
+  - `name` (string): The name or identifier of the site, such as "Factory A" or "Headquarters Building".
+
+- **Relationships:**
+  - `composedBy (1..N)`: Each `Site` comprises one or more `Machines` installed or operating within it.
 
 ---
 
